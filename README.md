@@ -1,4 +1,4 @@
-# 🤟 Realtime Indian Sign Language Translator
+# VoiceForAll: A Realtime Indian Sign Language Translator
 
 This is a **Realtime Indian Sign Language (ISL) Translator** built using **Machine Learning** and **Computer Vision**.
 
@@ -9,26 +9,26 @@ It supports:
 - ✍ Text → ISL step-by-step instructions (via Groq API).
 - 🧠 Scripts for dataset capture, model training and testing.
 
----
 
-## 🚀 Features
 
-### 🔍 Predict from Image
+## Salient Features:
+
+### Predict from Image:
 Upload an image of a hand gesture to get the predicted ISL character.
 
-### 📹 Realtime Gesture Recognition
+### Realtime Gesture Recognition:
 Use your webcam to perform gestures and see them recognized in realtime.
 
-### ✍ Convert Text to ISL Steps
+### Convert Text to ISL Steps:
 Provide a phrase and get step-by-step ISL gesture instructions.
 
-### 📁 Training Support
+### Training Support:
 Includes code to:
 - Capture custom gesture dataset
 - Train a basic CNN gesture classifier
 - Test realtime OpenCV-based gesture prediction
 
----
+
 
 ## 📥 Clone the Repository
 
